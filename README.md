@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Rohan singh
 - 👀 I’m interested in data analatics and data visualization
-- 🌱 I’m currently learning pyhton and data analatic
+- 🌱 I’m currently learning pyhton and data analytics
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me irohansingh22@gmail.com
 
